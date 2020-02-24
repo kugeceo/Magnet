@@ -1,0 +1,163 @@
+﻿
+	*{
+		margin:0px;
+		padding:0px;
+		list-style: none;
+		font-family: "Arial";
+	}
+	html,html body{
+		height: 100%;
+		overflow: hidden;
+	}
+		.rowSelect{
+			position: relative;
+			background: #fff;
+			float: right;
+			width: calc(100% - 200px);
+			padding-left: 30px;
+			height: 30px;
+		}
+		.rowSelect a{
+			font-size: 14px;
+			color: #fff;
+			margin-left:20px;
+			text-decoration:none;
+			line-height: 30px;
+			padding-left:22px;
+		}
+		.control{
+			position: relative;
+			width: 170px;
+			height: 100%;
+			float: left;
+			background:#374760;
+		}
+		.back_learning{
+			background: #381D4C
+		}
+		.back_picture{
+			background: #636
+		}
+		.back_magnetic{
+			background: #333
+		}
+		.back_data{
+			background: #336666;
+		}
+		.back_mirror{
+			background: #666;
+		}
+		#display{
+			width: calc(100% - 170px);
+			float: right;
+			height:100%;
+		}
+		.control h1{
+			width: 170px;
+			height: 59px;
+			text-align: center;
+			line-height:59px;
+		} 
+		.control h1 a{
+			font-weight: 12px;
+			color:#fff;
+			text-decoration: none;
+			font-weight: 100;
+		}
+		.select{
+			max-height:calc(100% - 80px);
+			overflow-y:scroll;
+		}
+		.select li{
+			font-size: 14px;
+			color: #fff;
+			height: 32px;
+			cursor: pointer;
+		}
+		.select li span{
+			line-height: 32px;
+			float: right;
+			text-align: left;
+			width: 100px;
+		}
+		.select li img{
+			margin:8px 10px 0 0; 
+			float: right;
+			width: 16px;
+			height: 16px;
+
+		}
+		.select::-webkit-scrollbar{
+		    width: 10px;
+		    height: 10px;
+		    background-color: #374760;
+		}
+		/*����������Ĺ��������Ӱ��Բ��*/
+		.select::-webkit-scrollbar-track{
+		    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+		    border-radius: 10px;
+		    background-color: #374760;
+		}
+		/*���廬�飬����Ӱ��Բ��*/
+		.select::-webkit-scrollbar-thumb{
+		    border-radius: 10px;
+		    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+		    background-color: #26354c;
+		}
+		.action{
+			border-left:4px solid #3598d9;
+			width: calc(100% - 4px);
+			border-right:none;
+			background: #26354c;
+		}
+		#skin,#zh_click_s,#zh_click_t{
+			padding-left: 0px;
+		}
+		#function{
+			display: none;
+			width: 100px;
+			height: 100px;
+			background: rgba(10,10,10,.7);
+			position:absolute;
+			border-radius: 5px;
+			left: 0px;
+			top: 0px;
+			z-index: 999999999;
+		}
+		#function p{
+			height: 30px;
+			width: calc(100% - 20px);
+			background: #666;
+			text-align: center;
+			line-height: 30px;
+			margin:10px auto 0;
+			color: #fff;
+			border-radius: 5px;
+			cursor: pointer;
+		}
+		#skinSelect{
+			display: none;
+			width: 240px;
+			height: 220px;
+			position: absolute;
+			left: 380px;
+			top: 30px;
+			background: rgba(0,0,0,.6)
+		}
+		#skinSelect li{
+			width: 100px;
+			height: 50px;
+			margin:10px;
+			background: #ccc;
+			float: left;
+			cursor: pointer;
+			text-align: center;
+			line-height: 50px;
+		}
+		#skinSelect li span{
+			display: none;
+			color: #fff;
+			width:100%;
+			height: 100%;
+			background:rgba(0,0,0,.5);
+		}
