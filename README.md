@@ -1,5 +1,13 @@
 关于
-<a href="https://magnet.nange.cn" target="_blank">在线磁力云播</a> 一个在任何地方都能解析磁力链接和种子文件的网站
+
+<a href="http://magnet.luhui.net" target="_blank">鲁虺在线磁力云播</a> 一个在任何地方都能解析磁力链接和种子文件的网站
+
+http://luhuimag.netlify.com/
+
+代码托管运行在netlify
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/363fb352-6056-437b-b2d9-3b5ab431fc3e/deploy-status)](https://app.netlify.com/sites/luhuimag/deploys)
+
 
 它使用了 WebTorrent - 种子文件和磁力链接解析客户端的网站 WebTorrent 使用了 WebRTC进行真正的点对点传输。不需要浏览器插件，扩展或程序安装。
 
@@ -20,6 +28,6 @@
 
 你可以订阅这个问题 的更新。
 
-<a href="https://magnet.nange.cn" target="_blank">磁力云播</a>
-© 2018 <a href="https://www.nange.cn" target="_blank">楠格</a>
-im@nan.ge
+<a href="https://magnet.luhui.net" target="_blank">鲁虺磁力云播</a>
+© 2001-1-11 <a href="https://www.luhui.net" target="_blank">鲁虺文化网</a>
+im@luhui.net
