@@ -28,7 +28,7 @@ http://luhuimag.netlify.com/
 
 你可以订阅这个问题 的更新。
 
-<a href="http://www.nange.cn/" target="_blank">徐佩楠</a>
+forked from XOS/Magnet <a href="http://www.nange.cn/" target="_blank">徐佩楠</a>
 
 <a href="http://magnet.luhui.net" target="_blank">鲁虺磁力云播</a>
 © 2004-1-11 <a href="http://www.luhui.net" target="_blank">鲁虺文化网</a>
