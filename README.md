@@ -28,6 +28,6 @@ http://luhuimag.netlify.com/
 
 你可以订阅这个问题 的更新。
 
-<a href="https://magnet.luhui.net" target="_blank">鲁虺磁力云播</a>
-© 2001-1-11 <a href="https://www.luhui.net" target="_blank">鲁虺文化网</a>
-im@luhui.net
+<a href="http://magnet.luhui.net" target="_blank">鲁虺磁力云播</a>
+© 2001-1-11 <a href="http://www.luhui.net" target="_blank">鲁虺文化网</a>
+info@mail.luhui.net
